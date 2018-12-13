@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      9238,        275]
-NotebookOptionsPosition[      8565,        250]
-NotebookOutlinePosition[      8905,        265]
-CellTagsIndexPosition[      8862,        262]
+NotebookDataLength[      9801,        295]
+NotebookOptionsPosition[      8981,        265]
+NotebookOutlinePosition[      9321,        280]
+CellTagsIndexPosition[      9278,        277]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -246,6 +246,21 @@ Cell[BoxData["Indeterminate"], "Output",
  CellChangeTimes->{
   3.7446364781426487`*^9, 3.744637259725974*^9, {3.7446372979357853`*^9, 
    3.7446373199136405`*^9}, 3.744637756596401*^9}]
+}, Open  ]],
+
+Cell[BoxData[
+ RowBox[{"(*", "\[IndentingNewLine]", "dodatak", "\[IndentingNewLine]", 
+  "*)"}]], "Input",
+ CellChangeTimes->{{3.7537179502717724`*^9, 3.753717957840459*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Log10", "[", "10", "]"}]], "Input",
+ CellChangeTimes->{{3.7537179607027807`*^9, 3.7537179646617155`*^9}}],
+
+Cell[BoxData["1"], "Output",
+ CellChangeTimes->{3.753717966918349*^9}]
 }, Open  ]]
 },
 WindowSize->{1350, 685},
@@ -276,6 +291,11 @@ Cell[6781, 207, 552, 11, 21, "Message"],
 Cell[7336, 220, 511, 10, 21, "Message"],
 Cell[7850, 232, 511, 10, 21, "Message"],
 Cell[8364, 244, 185, 3, 31, "Output"]
+}, Open  ]],
+Cell[8564, 250, 174, 3, 72, "Input"],
+Cell[CellGroupData[{
+Cell[8763, 257, 129, 2, 31, "Input"],
+Cell[8895, 261, 70, 1, 64, "Output"]
 }, Open  ]]
 }
 ]
